@@ -1,33 +1,41 @@
-# :checkered_flag: NOME DO PROJETO
-
-Breve descrição do que o seu projeto faz.
+# :checkered_flag: Mapa cultural
+Uum site que mostra a historia e os principais pontos turisticos de municipios 
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+556630, Miguel Barbosa dos Santos Bisneto - Redes de computadores
 
 ## :bulb: Objetivo Geral
-Descrever o objetivo de geral do projeto
+o objetivo princiapl é mostrar a importância do legado cultural que um municipio carrega mostrando seus pontos turisticos e sua origem 
 
 ## :eyes: Público-Alvo
-Público-alvo do projeto
+Qualquer pessoa que queira saber mais sobre sua cidade ou algum outro municipio que queira visitar
 
 ## :star2: Impacto Esperado
-Descreva o impacto esperado do projeto em relação ao público alvo
+Criar uma maior relevância na cultura local de cada região do País 
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+- **Administrador geral:** Responsaveis por gerenciar todo o site fazendo melhorias, supervisionando Administradores locais e mantendo o bem estar do site
+- **Administrador local:** Cada região (Norte, Nordeste, Sudeste etc) teriam seus administradores responsaveis adicionar as cidades e suas informações
+- **Usúario (logado):** Acessaria o site, poderia visualizar e ler sobre as cidades além de poderem comentar sobre suas expêriencias de viajens ou vivências em cidades e regiões que já visitaram ou vivem(ram)
+- **Usúario (Não logaco):** Apenas teria a opção de visualizar e ler sobre as informações passadas pelos administradores locais e usúarios logados
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
-
+- **Adicionar cidades**: Cada cidade terá o campo de historia, pontos túristicos, curiosidades e folclore local (se tiver)
+- **Login**: O usúario terá a opcção de login assim como administradores locais tambem poderão logar como ADM
+- **Comentarios e relatos:** dependendo do campo selecionado o usúario podera fazer um comentario sobre um ponto túristico ou deixar um relato que ocorreu na cidade e ficou marcado na memória dela
+- **Excluir comentario e/ou denunciar e banir usúario**: outros usuários poderão denunciar pessoas que fazem comentários inadequados ou agressivos sobre a cidade ou região(poderão fazer criticas, mas nada que gere discurso de ódio ou seja um ataque pessoal a alguem) o ADM Local irá checar o comentário ou relato e podera decidir se é passivel de punicão ou não
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
 Liste as principais entidades do sistema.
+- **ADM-Geral**
+- **ADM-Local**
+- **Usúario-logado**
+- **Usúario-sem login**
+- **Cidade/municipio**
+- **Região (Nordeste,Norte,sul e etc)**
 
 
 ----
