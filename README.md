@@ -24,7 +24,7 @@ Criar uma maior relevância na cultura local de cada região do País
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
 - **Adicionar cidades**: Cada cidade terá o campo de historia, pontos túristicos, curiosidades e folclore local (se tiver)
-- **Login**: O usúario terá a opcção de login assim como administradores locais tambem poderão logar como ADM
+- **Login**: O usúario terá a opcção de login assim como administradores tambem poderão logar como ADM
 - **Comentarios e relatos:** dependendo do campo selecionado o usúario podera fazer um comentario sobre um ponto túristico ou deixar um relato que ocorreu na cidade e ficou marcado na memória dela
 - **Excluir comentario e/ou denunciar e banir usúario**: outros usuários poderão denunciar pessoas que fazem comentários inadequados ou agressivos sobre a cidade ou região(poderão fazer criticas, mas nada que gere discurso de ódio ou seja um ataque pessoal a alguem) o ADM Local irá checar o comentário ou relato e podera decidir se é passivel de punicão ou não
 ## :spiral_calendar: Entidades ou tabelas do sistema
